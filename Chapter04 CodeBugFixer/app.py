@@ -1,8 +1,8 @@
 """
 file name: app.py
-Description: Building a Code Bug Fixer App with ChatGPT API
+Description: Building a Code Bug Fixer App without ChatGPT API
 __copyright__ = "Copyright 2023, MartinYTech"
-__author__=  Martin Yanev
+__author__=  Mohammed Shuaib Iqbal
 __modified__= 20/04/2023
 """
 
